@@ -1,0 +1,11 @@
+{
+  "name": "specialproject",
+  "version": "1.0.0",
+  "description": "testing json",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Elisia Morgan",
+  "license": "ISC"
+}
